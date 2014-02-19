@@ -1,0 +1,12 @@
+    *Operatør prioritet i Python?
+    
+    - Python har et system på hvilke attributter som først blir prioritert. Fra lavest bindende (lambda) til høyest     
+    bindene (uttrykk)
+
+    *One's Complement
+    
+    - Et system brukt for å representere negative tall. Her er den binære koden omvent, 0 er 1 og motsatt.
+    
+    *Two's Complement
+    
+    - Samme som One's complement, men her er alle "1" tallene byttet ut med "-1"
